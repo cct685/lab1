@@ -1,0 +1,13 @@
+1. What keywords describe a movie?
+2. Does an actor have an aka name?
+3. How many actors have aka names?
+4. How many things were filmed in a country?
+5. In which year did a movie come out?
+6. How many movies came out in a particular year?
+7. How many of a particular genre came out in a year?
+8. What genres are most popular?
+9. How many actors are in a movie’s cast?
+10. How many actors have the same name?
+11. How many seasons does a series have?
+12. How many movies have more than 5 genres?
+13. Which series has the most seasons?
