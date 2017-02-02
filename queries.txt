@@ -1,4 +1,4 @@
-1. What keywords describe a movie?
+1. What keyword describe a movie?
 2. Does an actor have an aka name?
 3. How many actors have aka names?
 4. How many things were filmed in a country?
